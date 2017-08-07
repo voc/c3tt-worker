@@ -1,7 +1,7 @@
 # c3tt-worker
 This is a template for creating [C3TT](https://c3voc.de/wiki/c3tracker) workers in python.
 
-#Contact
+# Contact
 The devs usually hang out in `#voc-lounge` at hackint
 
 # License
